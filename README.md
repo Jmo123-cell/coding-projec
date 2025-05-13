@@ -22,7 +22,7 @@
 3. run the application:
     Run the application:
     press the run button in your IDE or use the command python app.py in your terminal.
-    your good to go! have fun!
+    your good to go! have fun! there is no need to edit the code to run the application.
 
 ## Description
 Habit Tracker is a simple web application that allows users to track their daily habits. Users can add, edit, and delete habits, as well as mark them as completed for the day. The application provides a user-friendly interface and is a great way to help users stay accountable and motivated in their habit-building journey.
